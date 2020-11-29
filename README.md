@@ -1,6 +1,7 @@
-# Swipable Stacked Cards - Planning Vacations
+# fkbl - a fake dating app
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/bmarcelino/pen/pLzYjE](https://codepen.io/bmarcelino/pen/pLzYjE).
+A fake dating app that bears no resemblance to any existing application, living or dead.
 
+Cloned from "Swipable Stacked Cards - Planning Vacations": [https://codepen.io/bmarcelino/pen/pLzYjE](https://codepen.io/bmarcelino/pen/pLzYjE).
 
 https://readysetjoe.github.io/fkbl/
