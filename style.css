@@ -31,21 +31,18 @@ body {
 
 .header {
     text-align: center;
-    margin: 100px 40px;
+    align-items: center;
+    vertical-align: middle;
+    margin: 3rem;
     color: white;
     font-size: 130px
 }
 
 /* class created only for a better preview*/
 .stage {
-    position: absolute;
     opacity: 1;
     width: 90vmin;
-    top: 60%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-        -ms-transform: translate(-50%, -50%);
-            transform: translate(-50%, -50%);
+    margin: auto;
 }
 
 .stage.hidden {
